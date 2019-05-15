@@ -38,8 +38,8 @@ public class demo01 {
     }
     @BeforeTest
     public  static  void openBrowser( ){
-        System.setProperty("webdriver.chrome.driver","F:\\WebUiAutoTest\\driver\\chromedriver.exe");
-        System.setProperty("webdriver.firfox.bin","C:\\Program Files (x86)\\Mozilla Firefox\\firfox.exe");
-        System.setProperty("wendriver.ie.driver","F:\\WebUiAutoTest\\driver\\IEDriverServer.exe");
+        System.setProperty("webdriver.chrome.driver",".\\driver\\chromedriver.exe");
+        //System.setProperty("webdriver.firfox.bin","C:\\Program Files (x86)\\Mozilla Firefox\\firfox.exe");
+        //System.setProperty("wendriver.ie.driver","F:\\WebUiAutoTest\\driver\\IEDriverServer.exe");
     }
 }

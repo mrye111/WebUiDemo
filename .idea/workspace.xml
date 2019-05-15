@@ -9,9 +9,6 @@
     <list default="true" id="72d0322b-38d0-4059-9871-be2b9c710d90" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/heitong/uiatuo/test/demo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/heitong/uiatuo/test/demo01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/heitong/uiatuo/test/demo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/heitong/uiatuo/test/demo01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/heitong/uiatuo/test/grid.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/heitong/uiatuo/test/grid.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp-testng-customsuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/temp-testng-customsuite.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -41,11 +38,11 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/heitong/uiatuo/test/demo01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+            <state relative-caret-position="368">
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -74,11 +71,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/temp-testng-customsuite.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="138">
-              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -106,8 +103,8 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/heitong/uiatuo/test/grid.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/heitong/uiatuo/test/demo01.java" />
         <option value="$PROJECT_DIR$/temp-testng-customsuite.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/heitong/uiatuo/test/demo01.java" />
       </list>
     </option>
   </component>
@@ -192,7 +189,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557900721682" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557900871256" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../selenium" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -460,7 +457,7 @@
       <workItem from="1557381119276" duration="1753000" />
       <workItem from="1557457338230" duration="3110000" />
       <workItem from="1557724890089" duration="16176000" />
-      <workItem from="1557886774893" duration="6934000" />
+      <workItem from="1557886774893" duration="7083000" />
     </task>
     <task id="LOCAL-00001" summary="第二次提交">
       <created>1557891005575</created>
@@ -483,7 +480,14 @@
       <option name="project" value="LOCAL" />
       <updated>1557897637301</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="test">
+      <created>1557900742740</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1557900742740</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -519,7 +523,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27973000" />
+    <option name="totallyTimeSpent" value="28122000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -575,7 +579,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第二次提交" />
     <MESSAGE value="第三次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第三次提交" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -621,16 +626,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/heitong/uiatuo/test/demo01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="371">
@@ -641,7 +636,17 @@
     <entry file="file://$PROJECT_DIR$/temp-testng-customsuite.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/heitong/uiatuo/test/demo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
