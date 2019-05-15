@@ -3,7 +3,7 @@
 <suite name="Default Suite">
   <test name="WebUiAutoTest">
     <classes>
-      <class name="com.heitong.uiatuo.test.grid">
+      <class name="com.heitong.uiatuo.test.demo01">
 
       </class> <!-- com.heitong.uiatuo.test.demo01 -->
     </classes>
