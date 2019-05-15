@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/jshop/src/main/webapp/WEB-INF/lib/QRCode.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jshop/src/main/webapp/WEB-INF/lib/spider.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jshop/src/main/webapp/WEB-INF/lib/htmlparser.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jshop/src/main/webapp/WEB-INF/lib/htmllexer.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jshop/src/main/webapp/WEB-INF/lib/IKAnalyzer3.2.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
